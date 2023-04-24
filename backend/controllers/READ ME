@@ -1,0 +1,3 @@
+in backend  install npm
+in frontend install npm 
+then use traminal inside backend and write down "npm run dev" 
